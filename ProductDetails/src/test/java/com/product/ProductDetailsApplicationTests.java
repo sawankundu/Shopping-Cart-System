@@ -10,9 +10,6 @@ import com.product.service.impl.ProductServiceImpl;
 
 @SpringBootTest
 class ProductDetailsApplicationTests {
-
-	@Autowired
-	private ProductServiceImpl productServiceImpl;
 	
 	@Test
 	void contextLoads() {
